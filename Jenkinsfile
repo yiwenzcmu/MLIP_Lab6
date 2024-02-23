@@ -20,7 +20,7 @@ pipeline {
 
                 # TODO Complete the command to run pytest
                 sudo /home/yiwenz5/miniconda3/envs/mlip run -n mlip pytest
-
+                # test
                 # echo 'pytest not runned'
                 # exit 1 #comment this line after implementing Jenkinsfile
                 '''
